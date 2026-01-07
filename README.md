@@ -1,4 +1,21 @@
-## Hi there 👋
+(for english version scroll down)
+
+# Hi! Ich bin Anna aka MysticLumina
+
+## About me:
+- 22, NRW, she/her
+- Auszubildung Fachinformatikerin für Anwendungsentwicklung
+- Ich nutze GitHub als Projektsammlung und Dokumentation meiner Developer‑Journey(Repo comming soon).  
+- Ich lerne projektorientiert, reflektiere meinen Fortschritt und setze das Gelernte direkt in eigenen Anwendungen um. Mal kleiner, mal größer.
+
+## Skills
+
+
+## Kontakt
+GitHub: https://github.com/MysticLumina
+Discord: _mysticlumina
+
+
 
 more comming soon
 <!--
