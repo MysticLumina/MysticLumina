@@ -5,14 +5,14 @@
 ## About me:
 - 22, NRW, she/her
 - Auszubildung Fachinformatikerin für Anwendungsentwicklung
-- Ich nutze GitHub als Projektsammlung und Dokumentation meiner Developer‑Journey(Repo comming soon).  
+- Ich nutze GitHub als Projektsammlung und Dokumentation meiner Developer‑Journey(Repo: https://github.com/MysticLumina/learning-journey).  
 - Ich lerne projektorientiert, reflektiere meinen Fortschritt und setze das Gelernte direkt in eigenen Anwendungen um. Mal kleiner, mal größer.
 
 ## Skills
 
 
 ## Kontakt
-GitHub: https://github.com/MysticLumina
+GitHub: https://github.com/MysticLumina \n
 Discord: _mysticlumina
 
 
