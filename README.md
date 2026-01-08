@@ -1,21 +1,25 @@
 (for english version scroll down)
 
 # Hi! Ich bin Anna aka MysticLumina
+Obwohl ich aktuell noch in der Ausbildung bin, möchte ich mich trotzdem privat weiterbilden, um das Bestmögliche aus meinen Fähigkeiten rauszuholen.
 
 ## About me:
 - 22, NRW, she/her
-- Auszubildung Fachinformatikerin für Anwendungsentwicklung
+- Auszubildung Fachinformatikerin für Anwendungsentwicklung in einem mittelständischen Unternehmen
 - Ich nutze GitHub als Projektsammlung und Dokumentation meiner Developer‑Journey(Repo: https://github.com/MysticLumina/learning-journey).  
-- Ich lerne projektorientiert, reflektiere meinen Fortschritt und setze das Gelernte direkt in eigenen Anwendungen um. Mal kleiner, mal größer.
+- Ich lerne möglichst projektorientiert, reflektiere meinen Fortschritt und setze das Gelernte direkt in eigenen Anwendungen um. Mal kleiner, mal größer.
 
 ## Aktuelle Projekte
+- Homeorganisation-System
 
 ## Skills
-
+- Backend:
+- Frontend:
+- Database: Mongo DB (No SQL)
 
 ## Kontakt
-GitHub: https://github.com/MysticLumina 
-Discord: _mysticlumina
+- GitHub: https://github.com/MysticLumina 
+- Discord: _mysticlumina
 
 
 
