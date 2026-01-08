@@ -12,7 +12,7 @@
 
 
 ## Kontakt
-GitHub: https://github.com/MysticLumina \n
+GitHub: https://github.com/MysticLumina 
 Discord: _mysticlumina
 
 
