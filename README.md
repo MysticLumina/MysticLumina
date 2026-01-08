@@ -8,6 +8,8 @@
 - Ich nutze GitHub als Projektsammlung und Dokumentation meiner Developer‑Journey(Repo: https://github.com/MysticLumina/learning-journey).  
 - Ich lerne projektorientiert, reflektiere meinen Fortschritt und setze das Gelernte direkt in eigenen Anwendungen um. Mal kleiner, mal größer.
 
+## Aktuelle Projekte
+
 ## Skills
 
 
